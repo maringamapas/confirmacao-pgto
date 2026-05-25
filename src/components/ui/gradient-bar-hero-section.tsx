@@ -31,7 +31,7 @@ const TrustElements: React.FC = () => {
 const WaitlistForm: React.FC = () => {
   return <div className="relative z-10 w-full flex justify-center">
       <a 
-        href="https://wa.me/5544999324635?text=Site%20suspenso." 
+        href="https://wa.me/5544999324635?text=Pgto%20confirmado!" 
         target="_blank" 
         rel="noopener noreferrer"
         className="inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 rounded-full transition-all duration-300 transform hover:scale-105 text-sm sm:text-base font-space bg-white hover:bg-gray-100 text-black text-center"
