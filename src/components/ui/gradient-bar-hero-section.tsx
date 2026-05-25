@@ -131,12 +131,13 @@ export const Component: React.FC = () => {
         </div>
         
         <h1 className="w-full text-white leading-tight tracking-tight mb-6 sm:mb-8 animate-fadeIn px-4 text-center">
-          <span className="block font-inter font-medium text-[clamp(1.5rem,5vw,3.5rem)]">Site suspenso por falta de pagamento.</span>
+          <span className="block font-inter font-medium text-[clamp(1.5rem,5vw,3.5rem)]">Pagamento confirmado com sucesso.</span>
         </h1>
         
         <div className="mb-6 sm:mb-10 px-4">
-          
-          
+          <p className="text-white text-base sm:text-lg animate-fadeIn">
+            Muito obrigado pela confiança e pela preferência!
+          </p>
         </div>
         
         <div className="w-full max-w-2xl mb-6 sm:mb-8 px-4 flex justify-center">
